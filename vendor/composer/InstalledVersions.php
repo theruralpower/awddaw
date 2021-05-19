@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '4f7d67985d0c8b639657ac09607065977e2594b5',
+    'reference' => 'a9653fb35cfd4ceca480f95c040aec6dabc9140f',
     'name' => 'cakephp/cakephp',
   ),
   'versions' => 
@@ -44,7 +44,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '4f7d67985d0c8b639657ac09607065977e2594b5',
+      'reference' => 'a9653fb35cfd4ceca480f95c040aec6dabc9140f',
     ),
     'cakephp/cakephp-codesniffer' => 
     array (
