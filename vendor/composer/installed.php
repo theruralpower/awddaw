@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'dcffaf7e84b814e6589498affcf25d4a6f25bb39',
+    'reference' => '2db120c835516fa78f057b2a7f6fc89e182d6a3b',
     'name' => 'cakephp/cakephp',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'dcffaf7e84b814e6589498affcf25d4a6f25bb39',
+      'reference' => '2db120c835516fa78f057b2a7f6fc89e182d6a3b',
     ),
     'cakephp/cakephp-codesniffer' => 
     array (
