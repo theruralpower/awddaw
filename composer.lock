@@ -883,7 +883,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "7.4.*"
+        "php": "^7.0"
     },
     "platform-dev": [],
     "plugin-api-version": "2.0.0"
