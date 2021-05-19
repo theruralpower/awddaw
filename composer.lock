@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "341d2711570c148bb97eac12412bedef",
+    "content-hash": "0e7f9a1ca8c3dcbd05ead9e344793831",
     "packages": [],
     "packages-dev": [
         {
@@ -68,7 +68,7 @@
             },
             "require": {
                 "composer/installers": "^1.0.0",
-                "php": "^7.0"
+                "php": ">=5.3.0"
             },
             "require-dev": {
                 "cakephp/cakephp-codesniffer": "^1.0.0"
@@ -275,7 +275,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.0",
+                "php": ">=5.3.3",
                 "phpunit/php-file-iterator": ">=1.3.0@stable",
                 "phpunit/php-text-template": ">=1.2.0@stable",
                 "phpunit/php-token-stream": ">=1.1.3,<1.3.0"
@@ -341,7 +341,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.0"
+                "php": ">=5.3.3"
             },
             "type": "library",
             "extra": {
@@ -393,7 +393,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.0"
+                "php": ">=5.3.3"
             },
             "type": "library",
             "autoload": {
@@ -492,7 +492,7 @@
             },
             "require": {
                 "ext-tokenizer": "*",
-                "php": "^7.0"
+                "php": ">=5.3.3"
             },
             "type": "library",
             "extra": {
@@ -553,7 +553,7 @@
                 "ext-pcre": "*",
                 "ext-reflection": "*",
                 "ext-spl": "*",
-                "php": "^7.0",
+                "php": ">=5.3.3",
                 "phpunit/php-code-coverage": "~1.2",
                 "phpunit/php-file-iterator": "~1.3",
                 "phpunit/php-text-template": "~1.1",
@@ -625,7 +625,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.0",
+                "php": ">=5.3.3",
                 "phpunit/php-text-template": ">=1.1.1@stable"
             },
             "suggest": {
@@ -681,7 +681,7 @@
             },
             "require": {
                 "ext-tokenizer": "*",
-                "php": "^7.0"
+                "php": ">=5.1.2"
             },
             "suggest": {
                 "phpunit/php-timer": "dev-master"
@@ -759,7 +759,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.0"
+                "php": ">=7.1"
             },
             "suggest": {
                 "ext-ctype": "For best performance"
@@ -838,7 +838,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.0",
+                "php": ">=5.3.9",
                 "symfony/polyfill-ctype": "~1.8"
             },
             "type": "library",
