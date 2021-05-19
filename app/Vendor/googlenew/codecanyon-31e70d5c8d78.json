@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "codecanyon",
+  "private_key_id": "31e70d5c8d78fe964696e72eb2ea75f760088009",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjzJvD5g2DR+si\n3iahnamHzNcBexXtlm2BVg7uEuY6Sp0SZ045hcTE2r4IqJLd+7nvpm71q8XOpZl0\n5pC7tZyRhh5vXL1N38mAMFJ9ZzR2HSxmaSTEqVqSKglSyk2Iv4pBOCXpiRNhW8ML\nNzu8XSOLkJTe7bd1SBMx4JKAQ32HvnUfdp6XQtFxU9lZmSDkhgJ0u00Wa5zX1ZXb\nx8RkmU6dQMsNsQUSWTNMUGo6Q6C/U8Bs3mp4EqhcxNkIJBFIJxNQmH9GgT97YD8g\nMpZk4HDE0r7G8LS0Z9j/BFXe/eA+KjLLotd/wdHLo6mi+kwZPorOLek0p++R5WIi\n/q2yvoH3AgMBAAECggEACXg2mHc62G2hJEASnKz9lD/H6FUs2dz5/LcJyu1lyQCa\nSb+WL/t8pOLT3LKeNwjVYYujhj7Fg00N7PUNcK9ZsLdqbVwVB6UEmbgcH2rcMhM9\nXLhUa1gycm54C9oX7GwiZTiGnJSTqGvCgBSpNppt3SThLm2GJIN5CfJRQJVmSEwn\nUjn53VMJ5VwTMc6g9VkKxEzJ4lBSDKysCOvnzicAtaVufqsT00XK0AzvsmR7XMFC\n3Gb5H9irjQ4nQYjYC3xP5vUmIw60DeruFc8CG2Z8kw+DJqALLUG+k80uasL2UBn6\n23Ya+p+th/QbhsGusML18UN96aQvA581jPNirqrtrQKBgQDNG85t86QMiSPwtMsN\n2TUuuK8niT/9DSqQXS+N3zDOZLuQZ62uoMiQ361m8DB2gvDguSBPPSWqBODwDmtk\nrnl1s3RM3uWO0DcUE4ZmSsC7wz/xghgv5o4w0jfzVKR2OMQ1VTHn6sL/TAVrF6Vb\n6fYjfllJE5PYELdUxSlm4JUTSwKBgQDMcOSITFpMNJiZodUsasyReSnlwuUVDfMl\ndWjVTLLeHheaeWcW6DGBc3d7piJRCX/8xHRA/WLZOPnQg8mpdW1JykAKE2hxu6jT\nEotscg5ST2S6uUjIjbB/UP8uNrLBUxeGbMU1CWFTDu35hcQUBYFFGLYst0A2u9L+\nes/5k7j0hQKBgD5Eis7mgI8tszOIL3zszDB68PHXwQ1Zyeo54A36DB8chbS5RQkW\n1szkmwf9MzlHV0lh6mUj8yNCh+dY+VF/hnAtIsmTga1xmMcHhm3Xk9ts0yTGkgE4\nxUIdD89XivY5FZf7XUNDCh/nPF3et9zHkmoEGacNwnx91qptkLwiwh8xAoGBAI/1\n6yeDRI6m9tIwYFFPv0+tF3DAhdoGobI99B1HTikU3aAcXxiFVt8GNRvwB/gyjVqr\n6AUfqKy370oCk03t75BniCLQOdrkv2Qqid1Kj4UsfQzzjioThDaTDa44PDXgUg+J\npnDLcyouuCreJA3JNpc2aIoiXGhuaIxkZPElMbeVAoGASShB82IMc/ktQANIWcxw\nPQWilN4c3w9VOfLFfbT9AEkfswRgRfH2/HZtOGmE+/Wv6HSDvCbe4pcOVn4rZwds\n9jkDfJdwkVkzvAZFwr5jf5Tz+OHyGzowPXkb7oFiUxZLUBzxrzzpBlAfreH1fnDf\npUrDTrMbO3zug0oFQDV4Frw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "video-intelligence-tictic@codecanyon.iam.gserviceaccount.com",
+  "client_id": "114003206454860693042",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/video-intelligence-tictic%40codecanyon.iam.gserviceaccount.com"
+}
