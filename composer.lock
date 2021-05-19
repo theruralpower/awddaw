@@ -759,7 +759,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "7.0.0"
+                "php": "=7.0.0"
             },
             "suggest": {
                 "ext-ctype": "For best performance"
